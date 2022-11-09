@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "desc": "Koteg",
+      "price": "7",
+      "id": 1
+    },
+    {
+      "desc": "actimel strawberry",
+      "price": "4.9",
+      "id": 2
+    },
+    {
+      "desc": "stuzim",
+      "price": "18.9",
+      "id": 3
+    },
+    {
+      "desc": "Malabi",
+      "price": "3",
+      "id": 4
+    },
+    {
+      "desc": "cheese",
+      "price": "2",
+      "id": 5
+    },
+    {
+      "desc": "malabi",
+      "price": "8",
+      "id": 6
+    },
+    {
+      "desc": "aaa",
+      "price": "2",
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "desc": "cheese",
+      "price": "2",
+      "amount": 5,
+      "id": 10
+    },
+    {
+      "desc": "Koteg",
+      "price": "7",
+      "amount": 2,
+      "id": 12
+    },
+    {
+      "desc": "aaa",
+      "price": "2",
+      "amount": 2,
+      "id": 13
+    },
+    {
+      "desc": "Koteg",
+      "price": "7",
+      "amount": 4,
+      "id": 14
+    }
+  ]
+}
